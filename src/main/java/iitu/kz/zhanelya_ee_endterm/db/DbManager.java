@@ -17,7 +17,7 @@ public class DbManager {
     static{
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/zhanelya_db?serverTimezone=UTC&useUnicode=true", "root", "");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/db_janelya?serverTimezone=UTC&useUnicode=true", "root", "");
         }catch (Exception e){
             e.printStackTrace();
         }

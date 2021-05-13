@@ -65,7 +65,7 @@
                 <artifactId>flyway-maven-plugin</artifactId>
                 <version>7.8.1</version>
                 <configuration>
-                    <url>jdbc:mysql://localhost:3306/zhanelya_db?serverTimezone=UTC</url>
+                    <url>jdbc:mysql://localhost:3306/db_janelya?serverTimezone=UTC</url>
                     <user>root</user>
                     <password></password>
                 </configuration>

@@ -1,7 +1,7 @@
 package iitu.kz.zhanelya_ee_endterm.servlet;
 
-import iitu.kz.product.db.DbManager;
-import iitu.kz.product.entity.User;
+import iitu.kz.zhanelya_ee_endterm.db.DbManager;
+import iitu.kz.zhanelya_ee_endterm.entity.User;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

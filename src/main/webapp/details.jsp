@@ -1,5 +1,5 @@
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="iitu.kz.product.entity.Cookie" %>
+<%@ page import="iitu.kz.zhanelya_ee_endterm.entity.Cookie" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>

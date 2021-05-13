@@ -1,4 +1,4 @@
-<%@ page import="iitu.kz.product.entity.User" %><%
+<%@ page import="iitu.kz.zhanelya_ee_endterm.entity.User" %><%
     User currentUser = (User)session.getAttribute("USER");
 %>
 <div class="container">
